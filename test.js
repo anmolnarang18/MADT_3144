@@ -1,5 +1,4 @@
 function ShowHelloMessage() {
-    var name = document.getElementById("myname");
-    document.getElementById("hellomessage").innerHTML = "Hello, " + name.value;
+    document.getElementById("hellomessage").innerHTML = "myText"
 }
     document.getElementById("mybutton").onclick = ShowHelloMessage;

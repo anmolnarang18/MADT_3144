@@ -58,7 +58,7 @@ border-style: solid;
   padding-bottom: 10px;
   padding-left: 10px;
 }
-p,ul{
+p,ul,span{
 color:#4B0082;
 margin-left:4%;
 font: 14px Calibri, sans-serif;
